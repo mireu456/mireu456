@@ -19,7 +19,8 @@
 ---
 
 ## 📌 Side Projects
-- 🔹 **AI 기반 대화형 감정 다이어리 앱, Feely**  
+- 🔹 **AI 기반 대화형 감정 다이어리 앱, Feely**  ~23.06
+
   👉 AI친구 필리는 ChatGPT기반 대화형 감정 다이어리 앱으로, 필리의 질문에 사용자가 답변을 남기면 사용자 감정 상태에 맞는 공감 또는 조언을 해주고 대화 내용을 기록해주는 서비스입니다.
   
   [서비스 소개서](https://drive.google.com/file/d/1zo8LEw0smV0BQavf2k-PQaiEwrLMWhft/view)

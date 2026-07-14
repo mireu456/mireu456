@@ -6,13 +6,14 @@
 * Codex 기반 AI MVP 구현·배포
 * 컨텍스트 엔지니어링을 제품·마케팅 실무에 적용
 
-## Projects
+## 🚀 Projects
 
 * [음성 기반 AI 요리 가이드](https://bubblebubblemvp.vercel.app) · [GitHub](https://github.com/mireu456/bubble_bubble_rough)
 * [초등학생 맞춤형 AI 학습코치](https://github.com/TeamUng/ungji)
 * [AI 감정 다이어리 Feely](https://www.figma.com/design/8qTI7qUreUSSKvekzW4WLu/Feely_Prototype?node-id=0-1&p=f)
 
-📫 [mireuyoon@naver.com](mailto:mireuyoon@naver.com)
+📫 Contact
+Email: mireuyoon@naver.com
 
 <!--
 ## 👋 비즈니스 리터러시가 있는 AI Agent 개발자 [윤미르]입니다!
